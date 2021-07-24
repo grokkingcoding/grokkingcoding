@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alec
+- 👋 Hi, I am a Full Stack Software Developer. Nice to meet you.
 - 👀 I’m interested in Full Stack software development. In particular, Javascript, Automation (Puppeteer), ReactJS, NextJS, NodeJS, Redis, PWAs, Chrome Extensions, Docker, Firebase.
 - 🌱 I’m currently learning Pythton backend development, Elastic Search, Kubernetes and D3JS. 
 - 💞️ I’m looking to collaborate on interesting full stack projects or frontend features.
