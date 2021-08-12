@@ -1,6 +1,6 @@
 - 👋 Hi, I am just a very curious self-taught developer. Currently, my life revolves around two things, learning and building. 
  
-- 👀 I’m interested in Full Stack software development. In particular, Javascript, Automation (Puppeteer), ReactJS, NextJS, NodeJS, Redis, PWAs, Chrome Extensions, Docker, Firebase, React Native.
+- 👀 I’m interested in full stack software development. In particular, Javascript, Automation (Puppeteer), ReactJS, NextJS, NodeJS, Redis, PWAs, Chrome Extensions, Docker, Firebase, React Native.
 
 - 🌱 I’m currently learning Pythton backend development, Elastic Search, Kubernetes and D3JS. 
 
