@@ -1,4 +1,4 @@
-- 👋 Hi, I am just a extremely curious self-taught developer. Currently, my life revolves around two things, learning and building. 
+- 👋 Hi, I am an extremely curious self-taught developer. Currently, my life revolves around two things, learning and building. 
  
 - 👀 I’m interested in full stack software development. In particular, Javascript, Automation (Puppeteer), ReactJS, NextJS, NodeJS, Redis, PWAs, Chrome Extensions, Docker, Firebase, React Native.
 
