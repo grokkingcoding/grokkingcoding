@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on interesting full stack projects or frontend features.
 
-- 📫 How to reach me: grokkingcoding@gmail.com / grokkingcoding.io
+- 📫 How to reach me: team@grokkingcoding.io / grokkingcoding.io
 
 <!---
 grokkingcoding/grokkingcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
